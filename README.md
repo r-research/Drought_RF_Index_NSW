@@ -4,7 +4,7 @@ The following repository includes code used to create a drought RF index for NSW
 
 The database used is available upon request. An example of the database is included to run the code. 
 
-1. Extract local climate variables and Modes of Variability (MoV) from netcdf files. 
+1. Extract local climate variables (LCV) and Modes of Variability (MoV) from netcdf files. 
 - Input: Database with latitude and longitude data
 - Output: A csv with monthly data from 2000 to 2021 for each coordinate provided
 
